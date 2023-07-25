@@ -18,6 +18,6 @@ Project is live [Here]()
           or
 
 Download or clone the repository
-git clone : https://github.com/imhr1306/Gym-Web-Page.git
+git clone : [Click Here](https://github.com/imhr1306/LGMVIP-Web-Task_1.github.io.git)
 Go to the directory
 Run the index.html file
