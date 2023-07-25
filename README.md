@@ -1,4 +1,4 @@
-# LGMVIP-Web-Task_1.github.io
+# LGMVIP-Web-Task_1
 
 ## Task 1
 
@@ -13,7 +13,7 @@ JAVASCRIPT
 
 Steps to use :-
 
-Project is live [Here]()
+Project is live [Here](https://imhr1306.github.io/LGMVIP-Web-Task_1/)
 
           or
 
